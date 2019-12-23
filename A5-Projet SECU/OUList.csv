@@ -1,0 +1,27 @@
+﻿Name|Path
+Root|DC=alphapar DC=fr
+HQ|OU=Root DC=alphapar DC=fr
+Users|OU=HQ OU=Root DC=alphapar DC=fr
+Groups|OU=HQ OU=Root DC=alphapar DC=fr
+Computers|OU=HQ OU=Root DC=alphapar DC=fr
+Servers|OU=HQ OU=Root DC=alphapar DC=fr
+HR|OU=Users OU=HQ OU=Root DC=alphapar DC=fr
+HR|OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+HR|OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|OU=Users OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Direction|OU=Users OU=HQ OU=Root DC=alphapar DC=fr
+Direction|OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Direction|OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+FileServers|OU=Servers OU=HQ OU=Root DC=alphapar DC=fr
+MailServers|OU=Servers OU=HQ OU=Root DC=alphapar DC=fr
+ProxyServers|OU=Servers OU=HQ OU=Root DC=alphapar DC=fr
+ADServers|OU=Servers OU=HQ OU=Root DC=alphapar DC=fr
+Workstation|OU=HR OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Workstation|OU=Direction OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Workstation|OU=Marketing OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Laptop|OU=HR OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Laptop|OU=Direction OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+Laptop|OU=Marketing OU=Computers OU=HQ OU=Root DC=alphapar DC=fr
+ACL|OU=Groups OU=HQ OU=Root DC=alphapar DC=fr

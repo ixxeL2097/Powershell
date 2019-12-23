@@ -1,0 +1,14 @@
+﻿ShareName|Name|Scope|Category|Path
+HR|G_HR|Global|Security|OU=HR OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Direction|G_Direction|Global|Security|OU=Direction OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|G_Marketing|Global|Security|OU=Marketing OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+
+Direction|DL_Direction_RW|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Direction|DL_Direction_RO|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Direction|DL_Direction_CT|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+HR|DL_HR_RW|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+HR|DL_HR_RO|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+HR|DL_HR_CT|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|DL_Marketing_RW|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|DL_Marketing_RO|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
+Marketing|DL_Marketing_CT|DomainLocal|Security|OU=ACL OU=Groups OU=HQ OU=Root DC=alphapar DC=fr
